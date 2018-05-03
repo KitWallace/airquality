@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+    <site>
+        <id>203</id>
+        <operator>BCC</operator>
+        <name>Brislington Depot</name>
+        <latitude>51.4417454925</latitude>
+        <longitude>-2.55995735828</longitude>
+        
+        <link data="data">
+            <title>BCC Current readings</title>
+            <href>http://www.bristol.airqualitydata.com/cgi-bin/currentreadings.cgi?aq&amp;1004</href>
+        </link>
+    </site>
+    <site>
+        <id>452</id>
+        <name>AURN St Pauls</name>
+        <operator>DEFRA</operator>
+        <latitude>51.462839</latitude>
+        <longitude>-2.584482</longitude>
+        <link>
+            <title>DEFRA</title>
+            <href>https://uk-air.defra.gov.uk/networks/site-info?site_id=BRS8</href>
+        </link>
+    </site>
+    <site>
+        <id>463</id>
+        <operator>BCC</operator>
+        <name>Fishponds Road</name>
+        <latitude>51.4780434118</latitude>
+        <longitude>-2.53523110262</longitude>
+        
+        <link data="data">
+            <title>Current Readings</title>
+            <href>http://www.bristol.airqualitydata.com/cgi-bin/currentreadings.cgi?aq&amp;1010</href>
+        </link>
+    </site>
+    <site>
+        <id>215</id>
+        <operator>BCC</operator>
+        <name>Parson Street School</name>
+        <latitude>51.4326742393</latitude>
+        <longitude>-2.60496010851</longitude>
+        <link data="data">
+            <title>Current Readings</title>
+            <href>http://www.bristol.airqualitydata.com/cgi-bin/currentreadings.cgi?aq&amp;1005</href>
+        </link>
+    </site>
+    <site>
+        <id>500</id>
+        <name>Temple Way</name>
+        <latitude>51.457968</latitude>
+        <longitude>-2.583975</longitude>
+        <operator>DEFRA</operator>
+        <link>
+            <title>DEFRA</title>
+            <href>https://uk-air.defra.gov.uk/networks/site-info?uka_id=UKA00631</href></link>
+    </site>
+    <site>
+        <id>270</id>
+        <operator>BCC</operator>
+        <name>A37 Airport Road Junction</name>
+        <latitude>51.4278621788</latitude>
+        <longitude>-2.56374225514</longitude>
+        
+        <link data="data">
+            <title>Current Readings</title>
+            <href>http://www.bristol.airqualitydata.com/cgi-bin/currentreadings.cgi?aq&amp;1003</href>
+        </link>
+    </site>
+</sites>
