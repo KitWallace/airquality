@@ -11,7 +11,7 @@ return
   <head>
      <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather Sans" />
      <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Gentium Book Basic" />
-          <script type="text/javascript" src="../javascript/sorttable.js"></script> 
+          <script type="text/javascript" src="javascript/sorttable.js"></script> 
      <link rel="stylesheet" type="text/css" href="assets/base.css" media="screen" ></link>
 
      <script src="https://maps.googleapis.com/maps/api/js?key={$aq:googlekey}"></script>
