@@ -136,8 +136,8 @@ return
 
     </ul>
     
-    <div>This site developed by <a href="http://kitwallace.co.uk">Chris Wallace</a> &#160; <a href="https://twitter.com/kitwallace">@kitwallace</a>
-    
+    <div>This site developed by <a href="http://kitwallace.co.uk">Chris Wallace</a> &#160; <a href="https://twitter.com/kitwallace">@kitwallace</a>  Code and data on <a href="https://github.com/KitWallace/airquality">GitHub</a>
+   
     </div>
     </div>
  else if ($mode="glossary")
