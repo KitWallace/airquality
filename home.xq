@@ -95,7 +95,7 @@ return
      <h2>Year 
        {for $y in $aq:years
         return
-          <button id="{$y}" onclick="set_year({$y})">{if ($y = 2015) then attribute class {'blue'} else ()} {$y}</button>
+          <button id="{$y}" onclick="set_year({$y})">{if ($y = max($aq:years)) then attribute class {'blue'} else ()} {$y}</button>
        }
        &#160; 
        </h2>
